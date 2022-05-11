@@ -1,0 +1,100 @@
+
+
+body{
+    /* background: rgb(34,193,195); */
+background: linear-gradient(62deg, rgba(34,193,195,1) 0%, rgba(244,45,253,1) 100%);
+
+}
+
+
+/* Login form */
+
+.login{
+    background-color: #f2f1f7;
+    text-align: center;
+    height: 700px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+
+/* login contents */
+
+ .logname{
+font-family:'Times New Roman', Times, serif;
+font-weight: bold;
+padding-top: 35px;
+padding-bottom: 20px;
+} 
+
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 35px;
+    padding-right: 50px;
+}
+
+.address{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 35px;
+    padding-right: 80px;
+} 
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 35px;
+    margin-right: 53%;
+}
+
+
+.male{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+    margin-right: 100px;
+   
+} 
+
+ .female{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 35px;
+    padding-right: 50px;
+}
+
+.username{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    
+    padding-right: 60px;
+}
+
+.password{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 35px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+} 
+
+
+.btn{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 50px;
+
+   
+}
+
+ 
